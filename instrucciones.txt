@@ -10,6 +10,6 @@ Actividad de simula de manera general un sistema informático: implementación d
 	La lista de procesos carga lo que está almacenado en un archivo en formato JSON para un desarrollo y uso eficientes. Cada objeto de proceso tiene su propio número de proceso (id), tiempo de llegada (llegada) y tiempo de ejecución 	(ejecución), como en el folleto del tiempo normal del sistema informático.
 	
 	id es el número de proceso, la llegada es el tiempo de llegada y la ejecución es el tiempo de ejecución (procesamiento).
-
+ 
 	HRRN (relación de respuesta más alta a continuación)
 	
