@@ -1,0 +1,6 @@
+[
+  { "id": 0, "llegada": 0, "ejecucion": 9 },
+  { "id": 1, "llegada": 1, "ejecucion": 6 },
+  { "id": 2, "llegada": 2, "ejecucion": 2 },
+  { "id": 3, "llegada": 3, "ejecucion": 4 }
+]
